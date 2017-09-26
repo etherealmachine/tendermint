@@ -52,7 +52,6 @@ MerkleTree
 
 Written in Java, `authored by jTendermint <https://github.com/jTendermint/MerkleTree>`__.
 
-
 TMChat
 ^^^^^^
 
@@ -62,6 +61,11 @@ Passwerk
 ^^^^^^^^
 
 Encrypted storage web-utility backed by Tendermint, written in Go, `authored by Rigel Rozanski <https://github.com/rigelrozanski/passwerk>`__.
+
+Passchain
+^^^^^^^^^
+
+Passchain is a tool to securely store and share passwords, tokens and other short secrets, `authored by trusch <https://github.com/trusch/passchain>`__.
 
 Py-Tendermint
 ^^^^^^^^^^^^^
